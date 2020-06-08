@@ -1,0 +1,14 @@
+package com.github.liyibo1110.design.pattern.iterator;
+
+public class Book {
+
+	private String name;
+	
+	public Book(String name) {
+		this.name = name;
+	}
+
+	public String getName() {
+		return name;
+	}
+}
