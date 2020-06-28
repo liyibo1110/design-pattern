@@ -1,7 +1,7 @@
-package com.github.liyibo1110.design.pattern.factory.method.idcard;
+package com.github.liyibo1110.design.pattern.factorymethod.idcard;
 
-import com.github.liyibo1110.design.pattern.factory.method.framework.Factory;
-import com.github.liyibo1110.design.pattern.factory.method.framework.Product;
+import com.github.liyibo1110.design.pattern.factorymethod.framework.Factory;
+import com.github.liyibo1110.design.pattern.factorymethod.framework.Product;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.github.liyibo1110.design.pattern.template.method;
+package com.github.liyibo1110.design.pattern.templatemethod;
 
 public abstract class AbstractDisplay {
 

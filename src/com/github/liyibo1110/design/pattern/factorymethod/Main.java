@@ -1,8 +1,8 @@
-package com.github.liyibo1110.design.pattern.factory.method;
+package com.github.liyibo1110.design.pattern.factorymethod;
 
-import com.github.liyibo1110.design.pattern.factory.method.framework.Factory;
-import com.github.liyibo1110.design.pattern.factory.method.framework.Product;
-import com.github.liyibo1110.design.pattern.factory.method.idcard.IdCardFactory;
+import com.github.liyibo1110.design.pattern.factorymethod.framework.Factory;
+import com.github.liyibo1110.design.pattern.factorymethod.framework.Product;
+import com.github.liyibo1110.design.pattern.factorymethod.idcard.IdCardFactory;
 
 public class Main {
 

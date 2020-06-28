@@ -1,4 +1,4 @@
-package com.github.liyibo1110.design.pattern.factory.method.framework;
+package com.github.liyibo1110.design.pattern.factorymethod.framework;
 
 public abstract class Factory {
 

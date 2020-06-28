@@ -1,6 +1,6 @@
-package com.github.liyibo1110.design.pattern.factory.method.idcard;
+package com.github.liyibo1110.design.pattern.factorymethod.idcard;
 
-import com.github.liyibo1110.design.pattern.factory.method.framework.Product;
+import com.github.liyibo1110.design.pattern.factorymethod.framework.Product;
 
 public class IdCard extends Product {
 
